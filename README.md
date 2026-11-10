@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Mahhad%20Hassan&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Python%20%26%20FastAPI%20Developer%20%C2%B7%20AI%20Automation%20%C2%B7%20Full%20Stack&descSize=18&descAlignY=58" alt="Mahhad Hassan header" />
+<img width="100%" src="./header.svg" alt="Mahhad Hassan header" />
 
 <a href="https://github.com/Mahhad-Hassan">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Python+%26+FastAPI+Developer;Building+RAG+chatbots+and+LLM+features;Automating+workflows+with+n8n+%26+Make.com;Full+Stack+Developer+at+Agrovisions" alt="Typing animation" />
@@ -168,6 +168,6 @@ I'm open to:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" alt="Footer" />
+<img width="100%" src="./footer.svg" alt="Footer" />
 
 </div>
