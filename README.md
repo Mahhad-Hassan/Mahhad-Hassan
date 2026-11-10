@@ -124,8 +124,8 @@ I started in front-end development with React and Next.js, so I can build the in
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mahhad-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahhad-Hassan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-five-dun-10.vercel.app/api?username=Mahhad-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-five-dun-10.vercel.app/api/top-langs/?username=Mahhad-Hassan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
